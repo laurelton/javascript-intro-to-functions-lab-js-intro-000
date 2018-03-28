@@ -27,7 +27,7 @@ var sayHiToGrandma = function(string) {
     msg = 'I can\'t hear you!';
   }
 
-  if (string === 'I love you, Grandma') {
+  if (string === 'I love you, Grandma.') {
     msg = 'I love you, too.';
   }
 
